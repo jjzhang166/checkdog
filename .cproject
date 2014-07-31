@@ -60,6 +60,7 @@
 									<listOptionValue builtIn="false" value="winmm"/>
 									<listOptionValue builtIn="false" value="mapi32"/>
 								</option>
+								<option id="gnu.cpp.link.option.flags.132904749" name="Linker flags" superClass="gnu.cpp.link.option.flags" value="-static -mwindows" valueType="string"/>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.197808256" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
 									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
 									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
@@ -134,6 +135,7 @@
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/${ProjName}/libs}&quot;"/>
 									<listOptionValue builtIn="false" value="&quot;${workspace_loc:/winutil/static-release}&quot;"/>
 								</option>
+								<option id="gnu.cpp.link.option.flags.125599713" name="Linker flags" superClass="gnu.cpp.link.option.flags" value="-static -mwindows" valueType="string"/>
 								<inputType id="cdt.managedbuild.tool.gnu.cpp.linker.input.908335005" superClass="cdt.managedbuild.tool.gnu.cpp.linker.input">
 									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
 									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
