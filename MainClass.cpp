@@ -13,7 +13,7 @@ using namespace std;
 #define LOCAL_PATH "C:\\Program Files\\bank\\reboot.txt"
 #define REMOTE_PATH "/bank/reboot.txt"
 #define TIME_SLEEP 1*60*1000
-#define REMOTE_IP "192.168.0.137"
+#define REMOTE_IP "192.168.0.100"
 #define REMOTE_PORT 8088
 
 int main(int argc, char* argv[]) {
